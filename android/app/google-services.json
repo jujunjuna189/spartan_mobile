@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "677183301832",
+    "firebase_url": "https://spartan-4bcf2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "spartan-4bcf2",
+    "storage_bucket": "spartan-4bcf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677183301832:android:7253c30c796ded01691dfd",
+        "android_client_info": {
+          "package_name": "com.hplbz.spartanmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677183301832-bvkre4nbak6bbsbnq56f5bvm3l13ti83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvU8WRQROHGElPhZKvAx_b8SBnr-nDP0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677183301832-bvkre4nbak6bbsbnq56f5bvm3l13ti83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
